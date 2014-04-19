@@ -1,0 +1,1 @@
+This repo exists to support the development of a parlimentary assistant for meetings run under Robert's Rules of Order.
